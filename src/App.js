@@ -41,19 +41,14 @@ const App = () => {
         <Route path="/Athlete" element={<AthletePage />} />
         <Route path="/Football" element={<FootballPage />} />
         <Route path="/Chess" element={<ChessPage />} />
-        <Route path="/Cricket" element={<CricketPage />} /> {/* Correct path? */}
+        <Route path="/Cricket" element={<CricketPage />} /> 
         <Route path="/athlete/events/:documentID" element={<EventPage />} />
         <Route path="/basketball/events/:documentID" element={<EventPage />} />
         <Route path="/basketball/rules/:documentID" element={<Rules />} />
-        {/* Add more rules routes here */}
         <Route path="/basketball/facilities/:documentID" element={<Facilities />} />
-        {/* Add more facilities routes here */}
         <Route path="/basketball/coordinators/:documentID" element={<Coordinator />} />
-        {/* Add more coordinator routes here */}
         <Route path="/basketball/coaches/:documentID" element={<Coaches />} />
-        {/* Add more coaches routes here */}
         <Route path="/interiit/Selected-Student" element={<SelectedStudentsForInterIIT />} />
-        {/* Add more routes as needed */}
       </Routes>
     </Router>
   );
