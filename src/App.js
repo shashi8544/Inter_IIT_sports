@@ -44,7 +44,6 @@ const App = () => {
         <Route path="/Cricket" element={<CricketPage />} /> {/* Correct path? */}
         <Route path="/athlete/events/:documentID" element={<EventPage />} />
         <Route path="/basketball/events/:documentID" element={<EventPage />} />
-        {/* Add more event routes here */}
         <Route path="/basketball/rules/:documentID" element={<Rules />} />
         {/* Add more rules routes here */}
         <Route path="/basketball/facilities/:documentID" element={<Facilities />} />
