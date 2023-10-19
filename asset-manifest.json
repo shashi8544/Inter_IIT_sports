@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/Inter_IIT_sports/static/css/main.43d4cae6.css",
+    "main.js": "/Inter_IIT_sports/static/js/main.5341181b.js",
+    "static/media/footer_image.jpg": "/Inter_IIT_sports/static/media/footer_image.b764124c1e92ce1143cf.jpg",
+    "static/media/athlete-gb45b1e826_1280.jpg": "/Inter_IIT_sports/static/media/athlete-gb45b1e826_1280.d9583a6169eb7fc034f4.jpg",
+    "static/media/football-g3e1c63b19_1280.jpg": "/Inter_IIT_sports/static/media/football-g3e1c63b19_1280.677022377507d164a984.jpg",
+    "static/media/basketball-g146538a88_1280.jpg": "/Inter_IIT_sports/static/media/basketball-g146538a88_1280.a259d2b6f94b7f53b384.jpg",
+    "static/media/badminton-g859bb222c_1280.jpg": "/Inter_IIT_sports/static/media/badminton-g859bb222c_1280.f3171b5404d4f263795f.jpg",
+    "static/media/volleyball-g5dae5d610_1280.jpg": "/Inter_IIT_sports/static/media/volleyball-g5dae5d610_1280.51b134b93f42f04e6775.jpg",
+    "static/media/sunset-g5631e5178_1280.jpg": "/Inter_IIT_sports/static/media/sunset-g5631e5178_1280.a36ae94dc1eb70955f7d.jpg",
+    "static/media/achieve.jpeg": "/Inter_IIT_sports/static/media/achieve.31567283346c6a34ae7b.jpeg",
+    "static/media/black-gc2b09a313_1280.jpg": "/Inter_IIT_sports/static/media/black-gc2b09a313_1280.df5291da3bc34d703016.jpg",
+    "static/media/createTour.jpeg": "/Inter_IIT_sports/static/media/createTour.0276a2ea4be54be7a609.jpeg",
+    "static/media/cricketFrontPage.jpg": "/Inter_IIT_sports/static/media/cricketFrontPage.d6406bf6e01bb7e8973f.jpg",
+    "index.html": "/Inter_IIT_sports/index.html",
+    "main.43d4cae6.css.map": "/Inter_IIT_sports/static/css/main.43d4cae6.css.map",
+    "main.5341181b.js.map": "/Inter_IIT_sports/static/js/main.5341181b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.43d4cae6.css",
+    "static/js/main.5341181b.js"
+  ]
+}
